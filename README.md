@@ -51,6 +51,6 @@ I'm currently seeking remote opportunities in software development, front-end de
 
 ## 📫 Connect With Me
 
-- Portfolio: Add your portfolio link here
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your professional email here
+- Portfolio: https://j3e8r4.github.io/jeremy-portfolio/
+- LinkedIn: www.linkedin.com/in/jeremy-barlow-48100aa1
+- Email: j3e8r4@yahoo.com
