@@ -4,7 +4,7 @@
 
 I'm a software developer focused on building practical, user-friendly applications with Python, JavaScript, C#, HTML, and CSS.
 
-My projects include data-driven sports analytics tools, browser extensions, mobile applications, productivity software, and responsive websites. I enjoy transforming real-world problems into functional software while continuously improving my skills in APIs, automation, cloud technologies, and modern application development.
+My projects include data-driven sports analytics tools, browser extensions, mobile applications, productivity software, and responsive websites. I enjoy transforming real-world problems into functional software while continuously improving my skills in APIs, automation, cloud technologies, and modern application development.Contributed to 30+ independent software development projects spanning web applications, mobile apps, automation tools, Chrome extensions, machine learning solutions, business software, and data-driven applications. Collaborated throughout the software development lifecycle, including planning, architecture, debugging, feature implementation, UI/UX improvements, API integration, performance optimization, testing, and deployment
 
 ##  Featured Projects
 
