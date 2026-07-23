@@ -6,24 +6,24 @@ I'm a software developer focused on building practical, user-friendly applicatio
 
 My projects include data-driven sports analytics tools, browser extensions, mobile applications, productivity software, and responsive websites. I enjoy transforming real-world problems into functional software while continuously improving my skills in APIs, automation, cloud technologies, and modern application development.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ⚾ MLB Prediction Platform
+### MLB Prediction Platform
 A Python and Streamlit analytics application that evaluates MLB games, player statistics, home-run candidates, pitching matchups, and prediction performance.
 
-### 📝 TLDR Chrome Extension
+### TLDR Chrome Extension
 A browser extension that summarizes webpages and highlighted text through a responsive and resizable sidebar interface.
 
-### 🏠 Roof Takeoff Application
+### Roof Takeoff Application
 A software tool designed to analyze roofing measurements, panel requirements, uploaded plans, and project takeoff information.
 
-### 🍽️ FORKCAST
+### FORKCAST
 A Flutter mobile application that helps users quickly decide what to eat through an interactive meal-selection experience.
 
-### 💻 Developer Portfolio
+### Developer Portfolio
 A responsive website showcasing my software projects, technical abilities, and development experience.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**
 
